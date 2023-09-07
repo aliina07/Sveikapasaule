@@ -4,3 +4,4 @@
 
 #print() - izveide konsolē
 print("Sveika pasaule!")
+print("Šodien ir ceturtdiena")
